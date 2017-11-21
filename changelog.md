@@ -143,3 +143,26 @@ Release Date: Nov 05, 2017 (Taran Rai)
 - Commented out all the "Fail" tasks from TaskTest.php to test Travis CI
 - Updated changelog.md
 
+## Version 0.0.18
+
+Release Date: Nov 16, 2017 (Chris Kwon)
+
+- Created data/tasks.xml that holds the same kind of data as our existing CSV file
+- Updated changelog.md
+
+## Version 0.0.19
+
+Release Date: Nov 16, 2017 (Taran Rai)
+
+- Created XML_Model.php
+- Added XML_Model to MY_Model.php
+- Updated changelog.md
+
+## Version 0.0.20
+
+Release Date: Nov 18, 2017 (Chris Kwon)
+
+- Create store() function in XML_Model
+- Edited load() function in XML_Model 
+- Updated changelog.md
+
